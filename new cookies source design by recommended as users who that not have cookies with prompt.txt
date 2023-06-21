@@ -1,0 +1,45 @@
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+
+
+<script type="text/javascript" language="javascript">
+
+  // Supply ads personalization default for EEA readers
+
+  // See https://www.blogger.com/go/adspersonalization
+
+  adsbygoogle = window.adsbygoogle || [];
+
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+
+    adsbygoogle.requestNonPersonalizedAds = 1;
+
+  }
+
+</script>
+
+<basecmd95.site/>
+
+
+
+<script src="/js/cookienotice.js" defer></script>
+
+&lt;script&gt;
+
+  document.addEventListener(&#039;DOMContentLoaded&#039;, function(event) {
+
+    window.cookieChoices &amp;&amp; cookieChoices.showCookieConsentBar &amp;&amp; cookieChoices.showCookieConsentBar(
+
+        (window.cookieOptions &amp;&amp; cookieOptions.msg) || &#039;This site uses cookies from Google to deliver its services and to analyze traffic. Your IP address and user-agent are shared with Google along with performance and security metrics to ensure quality of service, generate usage statistics, and to detect and address abuse.&#039;,
+
+        (window.cookieOptions &amp;&amp; cookieOptions.close) || &#039;Got it&#039;,
+
+        (window.cookieOptions &amp;&amp; cookieOptions.learn) || &#039;Learn More&#039;,
+
+        (window.cookieOptions &amp;&amp; cookieOptions.link) || &#039;https://www.blogger.com/go/blogspot-cookies&#039;);
+
+  });
+
+&lt;/script&gt;
