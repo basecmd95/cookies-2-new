@@ -1,45 +1,29 @@
-<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
-
-<meta name='google-adsense-platform-domain' content='blogspot.com'/>
-
-
+<link rel="me" href="https://www.blogger.com/profile/04997561812682007579"></link>
+<meta name="google-adsense-platform-account" content="ca-host-pub-5512969797333702"></meta>
+<meta name="google-adsense-platform-domain" content="blogspot.com"></meta>
 
 <script type="text/javascript" language="javascript">
-
   // Supply ads personalization default for EEA readers
-
   // See https://www.blogger.com/go/adspersonalization
-
   adsbygoogle = window.adsbygoogle || [];
-
   if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
-
     adsbygoogle.requestNonPersonalizedAds = 1;
-
   }
-
 </script>
 
-<basecmd95.site/>
+<style class="singleton-element" type="text/css">.cookie-choices-info { position:fixed;width:100%;background-color:#666;margin:0;left:0;top:0;padding:0;z-index:4000;text-align:center;color:#fff;line-height:140%;padding:10px 0;font-family:roboto,Arial; } .cookie-choices-info .cookie-choices-inner { position:relative;width:initial;margin:0;left:0;top:0; } .cookie-choices-info .cookie-choices-text { display:inline-block;vertical-align:middle;font-size:16px;margin:10px 20px;color:#ccc;max-width:800px;text-align:left; }.cookie-choices-info .cookie-choices-buttons { display:inline-block;vertical-align:middle;white-space:nowrap;margin:0 10px; } .cookie-choices-info .cookie-choices-button:hover {  color: #fff; } .cookie-choices-info .cookie-choices-button { font-weight:bold;text-transform:UPPERCASE;white-space:nowrap;color:#eee;margin-left:8px;padding:0 6px; text-decoration:none; }</style>
 
-
-
-<script src="/js/cookienotice.js" defer></script>
-
-&lt;script&gt;
-
-  document.addEventListener(&#039;DOMContentLoaded&#039;, function(event) {
-
-    window.cookieChoices &amp;&amp; cookieChoices.showCookieConsentBar &amp;&amp; cookieChoices.showCookieConsentBar(
-
-        (window.cookieOptions &amp;&amp; cookieOptions.msg) || &#039;This site uses cookies from Google to deliver its services and to analyze traffic. Your IP address and user-agent are shared with Google along with performance and security metrics to ensure quality of service, generate usage statistics, and to detect and address abuse.&#039;,
-
-        (window.cookieOptions &amp;&amp; cookieOptions.close) || &#039;Got it&#039;,
-
-        (window.cookieOptions &amp;&amp; cookieOptions.learn) || &#039;Learn More&#039;,
-
-        (window.cookieOptions &amp;&amp; cookieOptions.link) || &#039;https://www.blogger.com/go/blogspot-cookies&#039;);
-
+<!-- 'Es liegt in deiner Verantwortung, deine Besucher über die in deinem Blog verwendeten Cookies und die dort erfassten Daten zu informieren. Blogger stellt dafür eine Standardbenachrichtigung zur Verfügung, die du übernehmen, anpassen oder durch deine eigene Mitteilung ersetzen kannst. Weitere Informationen findest du unter http://www.blogger.com/go/cookiechoices.' -->
+<script src="/js/cookienotice.js" defer=""></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+        (window.cookieOptions && cookieOptions.msg) || 'This website uses cookies from Google to provide services and analyze access. Your IP address and user agent are transmitted to Google along with performance and security metrics. This allows for the creation of usage statistics, detection and resolution of abuse cases, and ensuring the quality of the service.',
+        (window.cookieOptions && cookieOptions.close) || 'Ok',
+        (window.cookieOptions && cookieOptions.learn) || 'Weitere Informationen',
+        (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
   });
+</script>
 
-&lt;/script&gt;
+<div id="cookieChoiceInfo" class="cookie-choices-info singleton-element"><div class="cookie-choices-inner"><span class="cookie-choices-text">
+This website uses cookies from Google to provide services and analyze access. Your IP address and user agent are transmitted to Google along with performance and security metrics. This allows for the creation of usage statistics, detection and resolution of abuse cases, and ensuring the quality of the service.</span><span class="cookie-choices-buttons"><a href="https://www.blogger.com/go/blogspot-cookies" target="_blank" class="cookie-choices-button">Further information</a><a id="cookieChoiceDismiss" href="#" class="cookie-choices-button">Ok|Consent|Accepted</a></span></div></div>
